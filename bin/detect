@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "PdfTK"
+exit 0
+
